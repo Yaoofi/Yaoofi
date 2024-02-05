@@ -1,1 +1,66 @@
+body{
+    background-color: #ffffff;
+    font-family: Quicksand;
+    font-size: 1.1em;
+    color: #000000;
+    margin:0;
+}
 
+a:link{
+    color:#6716ff;
+}
+a:visited{
+    color:#6716ff;
+}
+a:hover{
+    color:#6716ff;
+}
+
+.Logo{
+    width: 100%;
+    height: 100%
+}
+
+.Links{
+    max-width: 1040px;
+    padding:4 0px;
+    width: auto;
+    margin: auto;
+}
+
+.Link1{
+    /* THIS IS JUST EXAMPLE TO COPY */
+    height:30px;
+    width:150px;
+    float:left
+}
+
+.Inside{
+    max-width: 100%;
+}
+
+.Ad{
+    background-color: #ffffff52;
+    width:200px;
+    height:700px;
+    clear:both;
+    float:left;
+    border-radius: 10px;
+}
+
+.Text{
+    max-width: 1040px;
+    padding:20px;
+    margin:auto;
+    
+}
+
+.Footer{
+    background-color: rgb(46, 46, 46);
+    width:100%;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(255,255,255);
+    padding: 25px 0;
+    position:absolute;
+}
