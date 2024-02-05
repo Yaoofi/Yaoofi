@@ -1,7 +1,7 @@
 body{
     background-color: #ffffff;
     font-family: Quicksand;
-    font-size: 1.2em;
+    font-size: 1.1em;
     color: #000000;
     margin:0;
 }
@@ -23,7 +23,7 @@ a:hover{
 
 .Links{
     max-width: 1040px;
-    padding:4   0px;
+    padding:4 0px;
     width: auto;
     margin: auto;
 }
@@ -35,11 +35,24 @@ a:hover{
     float:left
 }
 
+.Inside{
+    max-width: 100%;
+}
+
+.Ad{
+    background-color: #ffffff52;
+    width:200px;
+    height:700px;
+    clear:both;
+    float:left;
+    border-radius: 10px;
+}
+
 .Text{
     max-width: 1040px;
-    padding:1px;
+    padding:20px;
     margin:auto;
-    clear:both;
+    
 }
 
 .Footer{
@@ -50,5 +63,4 @@ a:hover{
     color: rgb(255,255,255);
     padding: 25px 0;
     position:absolute;
-    bottom:0;
 }
