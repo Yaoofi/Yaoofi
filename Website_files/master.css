@@ -4,6 +4,8 @@ body{
     font-size: 1.1em;
     color: #000000;
     margin:0;
+    display:flex;
+    flex-direction: column;
 }
 
 a:link{
@@ -26,24 +28,23 @@ a:hover{
     padding:4 0px;
     width: auto;
     margin: auto;
+    display: flex;
+    flex-wrap: nowrap;
 }
 
-.Link1{
-    /* THIS IS JUST EXAMPLE TO COPY */
-    height:30px;
-    width:150px;
-    float:left
+.Links > div{
+    margin: 10px;
 }
 
 .Inside{
     padding-bottom:100px; 
+    flex: 1;
 }
 
 .Text{
     max-width: 1040px;
     padding:20px;
     margin:auto;
-    
 }
 
 .Ad{
@@ -63,7 +64,8 @@ a:hover{
     font-size: 15px;
     color: rgb(255,255,255);
     padding: 25px 0;
-    position:fixed;
-    left: 0;
-    bottom: 0;
+}
+
+.LinkImg{
+    width: 20px;
 }
