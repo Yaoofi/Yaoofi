@@ -2,7 +2,7 @@
 
 ![Banner](/README_files/Github_banner.png)
 
-My (nick) name is Yaoo and I am from Poland. I am primarily a C# programmer but I also like making projects with Arduino, or any programable things. I also like 3D modeling/printing, and other sorts of digital art. I like listening to music, especially metal or rock. My favorite band is Metallica
+My (nick) name is Yaoo and I am from Poland. I am primarily a C# programmer but also like making projects with Arduino, or any programable things. I also like 3D modeling/printing, and other digital art. I listen to music, especially metal or rock. My favorite band is Metallica
 
 # My Socials <img src="/README_files/Network Neighborhood.ico">
 
