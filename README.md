@@ -2,7 +2,7 @@
 
 ![Banner](/README_files/Github_banner.png)
 
-My (nick) name is Yaoo and I am from Poland. I am primarily a C# programmer but also like making projects with Arduino, or any programable things. I also like 3D modeling/printing, and other digital art. I listen to music, especially metal or rock. My favorite band is Metallica
+My (nick) name is Yaoo and I am from Poland. I am primarily a C# programmer but I also like making projects with Arduino, or any programable things. I also like 3D modeling/printing, and other digital art. I listen to music, especially metal or rock. My favorite band is Metallica
 
 # My Socials <img src="/README_files/Network Neighborhood.ico">
 
@@ -25,6 +25,11 @@ My (nick) name is Yaoo and I am from Poland. I am primarily a C# programmer but 
 # What to do now? <img src="/README_files/Turn Off Computer (full).ico">
 Now you probably should turn off your brain
 
+# Support <img src="/README_files/IR-Port transfer grogress(Red & Green).ico">
+If you want to support me, then you are free to go.
+
+BTC: bc1q93afwn96nqptjv8w9f7la0w37mjcwgfzeptnq4
+XMR: 44Wd5AqMEDGHHXxV5irT3wVWN5zyMhsQufSAVczjQQWfcSpVob7qFcF1B31SzQHZjyKZzAVgdSc2idyCZ1kK97gHEbTeUS1
 
 # IT IS BURNING!!!!!!!!!!!
 Dear Jesus Christ, who the hell put this fire here?
