@@ -2,7 +2,7 @@
 
 ![Banner](/README_files/Github_banner.png)
 
-My (nick) name is Yaoo and I am from Poland. I am primarily a C# programmer but I also like making projects with Arduino, or any programable things. I also like 3D modeling/printing, and other digital art. I listen to music, especially metal or rock. My favorite band is Metallica
+I like creative stuff (aka coding, modeling, printing in 3D, and making war robots), and listening to music helps me with this.
 
 # My Socials <img src="/README_files/Network Neighborhood.ico">
 
@@ -20,7 +20,7 @@ My (nick) name is Yaoo and I am from Poland. I am primarily a C# programmer but 
 
 # Music <img src="/README_files/Volume.ico">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jy30y2moi8dknvo2h68ag3amm&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false&bar_color=ffffff)](https://spotify-github-profile.vercel.app/api/view?uid=jy30y2moi8dknvo2h68ag3amm&redirect=true)
+There should be something. lol.
 
 # What to do now? <img src="/README_files/Turn Off Computer (full).ico">
 Now you probably should turn off your brain
