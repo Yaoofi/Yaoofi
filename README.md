@@ -19,9 +19,8 @@ I like creative stuff (aka coding, modeling, printing in 3D, and making war robo
 [![Yaoofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaoofi)](https://github.com/anuraghazra/github-readme-stats)
 
 # Music <img src="/README_files/Volume.ico">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jy30y2moi8dknvo2h68ag3amm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=707070)](https://spotify-github-profile.kittinanx.com/api/view?uid=jy30y2moi8dknvo2h68ag3amm&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jy30y2moi8dknvo2h68ag3amm&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=jy30y2moi8dknvo2h68ag3amm&redirect=true)
 
-# What to do now? <img src="/README_files/Turn Off Computer (full).ico">
 Now you probably should turn off your brain
 
 # Support <img src="/README_files/IR-Port transfer grogress(Red & Green).ico">
