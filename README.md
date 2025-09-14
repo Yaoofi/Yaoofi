@@ -20,7 +20,7 @@ I like creative stuff (aka coding, modeling, printing in 3D, and making war robo
 
 # Music <img src="/README_files/Volume.ico">
 
-There should be something. lol.
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jy30y2moi8dknvo2h68ag3amm&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false&bar_color=ffffff)](https://spotify-github-profile.vercel.app/api/view?uid=jy30y2moi8dknvo2h68ag3amm&redirect=true)
 
 # What to do now? <img src="/README_files/Turn Off Computer (full).ico">
 Now you probably should turn off your brain
